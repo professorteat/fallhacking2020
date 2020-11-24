@@ -72,7 +72,7 @@ EXTRA CREDIT: Win Scenario based on total SCORE on wechall.  It doesn't matter w
 
 Students:
 |Initials|Overthewire Name|WeChall name|
-|--|--|--|
+|AA|ash12|ash12|
 |CT|ethicalprof|ethicalprof|
 |AH|Zorak|Zorak|
 | EW |ewarnock    |ewarnock
