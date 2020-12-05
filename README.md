@@ -78,6 +78,8 @@ Students:
 | EW |ewarnock    |ewarnock
 | AH |ahill167 | ahill167 |
 |DB|dbow|dbow|
+| GD |mdaugh10 | mdaugh10 |
+| WM |wmcdon11 | wmcdon11 |
 | GD |mdaugh10 | mdaugh10 | 
 |HW|NotAStudent|NotAStudent|
 | GD |mdaugh10 | mdaugh10 |
